@@ -1,3 +1,5 @@
+Installation
+Clone the selectionSaver to C:\Users<user>\Documents\maya\scripts or to a folder included in PYTHONPATH.
 
 Build Command
 ```
